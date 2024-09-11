@@ -60,7 +60,7 @@ Remove repeated CAD models (under ```data_process``` folder, default is ```6 bit
 
     sh deduplicate.sh
 
-You can download the deduplicated files for [DeepCAD](https://drive.google.com/drive/folders/1N_60VCZKYgPviQgP8lwCOVXrzu9Midfe?usp=drive_link), and [ABC](https://drive.google.com/drive/folders/1bA90Rz5EcwaUhUrgFbSIpgdJ0aeDjy3v?usp=drive_link).
+You can download the deduplicated files for [DeepCAD](https://drive.google.com/drive/folders/1N_60VCZKYgPviQgP8lwCOVXrzu9Midfe?usp=drive_link), [ABC](https://drive.google.com/drive/folders/1bA90Rz5EcwaUhUrgFbSIpgdJ0aeDjy3v?usp=drive_link) and [Furniture](https://drive.google.com/drive/folders/1jgAvZssPmZZJ8irPJqQwo0wtvQ3K7o89?usp=sharing).
 
 
 
@@ -100,7 +100,7 @@ We also provide the individual checkpoints trained on different datasets.
 |--------------------|-----------| -----------|
 | DeepCAD | [vae model](https://drive.google.com/drive/folders/1UZYqJ2EmTjzeTcNr_NL3bPpU4WrufvQa?usp=drive_link) |   [latent diffusion model](https://drive.google.com/drive/folders/1jonuCzoTBFOKKlnaoGlbmhT6YlnH0lma?usp=drive_link) |
 | ABC | [vae model](https://drive.google.com/drive/folders/18Ib9L0kpFf4ylZIRTCYFhXZB_GVIUm53?usp=drive_link) |   [latent diffusion model](https://drive.google.com/drive/folders/1hv7ZUcU-L3J0LiONK60-TEh7sAN0zfve?usp=drive_link) |
-
+| Furniture | [vae model](https://drive.google.com/drive/folders/1N3f2L9JxEW77jW65pObmAco1dE9POfSL?usp=sharing) | [latent diffusion model](https://drive.google.com/drive/folders/1L04PghgTsQKtZGA__ADbPwarOjv917AQ?usp=sharing) |
 
 ## Acknowledgement
 This research is partially supported by NSERC Discovery Grants with Accelerator Supplements and DND/NSERC Discovery Grant
